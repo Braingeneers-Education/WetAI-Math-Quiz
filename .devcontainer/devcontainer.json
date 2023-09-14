@@ -1,9 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 {
-	"build": {
-	    "dockerfile": "./Dockerfile",
-	    "context": "."
-	},
+	"image":"ghcr.io/braingeneers/classroom:latest",
+
 	"customizations": {
 		"vscode": {
 		  "extensions": [
