@@ -1,5 +1,5 @@
 # WetAI: Collaborative Neuroscience
-## Assignment: Math Quiz
+## Assignment #1: Math Quiz
 
 This quiz is designed to test your understanding of mathematical concepts, particularly in the context of vector spaces and neuron firing rules. Before you begin or resume the quiz, make sure you have reviewed the course material related to these topics.
 
